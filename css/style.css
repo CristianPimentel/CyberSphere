@@ -6,6 +6,11 @@
 }
 
 /* Configuración general */
+
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background:#0B1120;
     color:white;
@@ -571,10 +576,6 @@ section {
 
 .btn-arriba:hover {
     transform: scale(1.1);
-}
-
-html{
-    scroll-behavior:smooth;
 }
 
 img{
